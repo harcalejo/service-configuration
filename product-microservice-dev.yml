@@ -17,4 +17,4 @@ spring:
     generate-ddl: true
 
 app:
-  test-property: Testing properties
+  test-property: Testing properties updated
