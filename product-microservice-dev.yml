@@ -9,4 +9,4 @@ spring:
     generate-ddl: true
 
 app:
-  test-property: Testing properties updated
+  test-property: Testing properties updated by Bus Rabbit
